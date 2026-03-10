@@ -61,7 +61,7 @@ http://<EC2-PUBLIC-IP>:8080
 ---
 
 ## Project Screenshot
-
+![Project Screenshot](Project-output.png)
 ---
 
 ## Key DevOps Concepts Practiced
